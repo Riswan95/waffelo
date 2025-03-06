@@ -1,0 +1,86 @@
+﻿Build started Wed, 9, Mar, 2016 8:33:06 PM.
+     1>Project "D:\Ngee Ann\Semester 6\Game Programming\Assignment 2\Assignment 2 Final Submission\GP ASSGN2 FINAL GAME\Waffelo\PlanetCollision.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (PlanetCollision.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\\Include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt waffelo.cpp
+         waffelo.cpp
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\constants.h(45): warning C4244: 'initializing' : conversion from 'float' to 'const int', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(478): warning C4244: '=' : conversion from 'double' to 'FLOAT', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(609): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(610): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(622): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(638): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(678): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(683): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(694): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(716): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(732): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(755): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(771): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(811): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(816): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(827): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(849): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(865): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(888): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(904): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(944): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(949): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(960): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(982): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(998): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1043): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1037) : definition of 'i' ignored
+                 d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1029) : definition of 'i' used
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1083): warning C4552: '*' : operator has no effect; expected operator with side-effect
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1160): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1154) : definition of 'i' ignored
+                 d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1146) : definition of 'i' used
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1200): warning C4552: '*' : operator has no effect; expected operator with side-effect
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1277): warning C4258: 'i' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1271) : definition of 'i' ignored
+                 d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1263) : definition of 'i' used
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1317): warning C4552: '*' : operator has no effect; expected operator with side-effect
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1695): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1778): warning C4244: 'argument' : conversion from 'const UINT' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1779): warning C4244: 'argument' : conversion from 'const UINT' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1783): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1788): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1792): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1875): warning C4244: 'argument' : conversion from 'const UINT' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1876): warning C4244: 'argument' : conversion from 'const UINT' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1879): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\ngee ann\semester 6\game programming\assignment 2\assignment 2 final submission\gp assgn2 final game\waffelo\waffelo.cpp(1883): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Ngee Ann\Semester 6\Game Programming\Assignment 2\Assignment 2 Final Submission\GP ASSGN2 FINAL GAME\Waffelo\Debug\Waffelo.exe" /NOLOGO /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\\Lib\x86" d3d9.lib d3dx9.lib winmm.lib xinput.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Ngee Ann\Semester 6\Game Programming\Assignment 2\Assignment 2 Final Submission\GP ASSGN2 FINAL GAME\Waffelo\Debug\Waffelo.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Ngee Ann\Semester 6\Game Programming\Assignment 2\Assignment 2 Final Submission\GP ASSGN2 FINAL GAME\Waffelo\Debug\Waffelo.lib" /MACHINE:X86 /SAFESEH Debug\AI.obj
+         Debug\berry.obj
+         Debug\breakable.obj
+         Debug\bubble.obj
+         Debug\bullet.obj
+         Debug\entity.obj
+         Debug\game.obj
+         Debug\graphics.obj
+         Debug\image.obj
+         Debug\input.obj
+         Debug\jumpHigh.obj
+         Debug\planet.obj
+         Debug\cake.obj
+         Debug\portal.obj
+         Debug\shrink.obj
+         Debug\soldierWaffle.obj
+         Debug\State.obj
+         Debug\strength.obj
+         Debug\tile.obj
+         Debug\tileMap.obj
+         Debug\waffelo.obj
+         Debug\textDX.obj
+         Debug\textureManager.obj
+         Debug\threeCsDX.obj
+         Debug\waffleCollectible.obj
+         Debug\winmain.obj
+         PlanetCollision.vcxproj -> D:\Ngee Ann\Semester 6\Game Programming\Assignment 2\Assignment 2 Final Submission\GP ASSGN2 FINAL GAME\Waffelo\Debug\Waffelo.exe
+     1>Done Building Project "D:\Ngee Ann\Semester 6\Game Programming\Assignment 2\Assignment 2 Final Submission\GP ASSGN2 FINAL GAME\Waffelo\PlanetCollision.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.78
